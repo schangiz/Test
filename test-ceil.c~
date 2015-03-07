@@ -1,4 +1,4 @@
-/* Hello ceil example */
+/* ceil example */
 #include <stdio.h>      /* printf */
 #include <math.h>       /* ceil */
 
